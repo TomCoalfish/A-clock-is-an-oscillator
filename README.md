@@ -10,6 +10,7 @@ Or, an oscillator is a clock
 * It is the same thing 
 * It counts the time
 * The difference is an oscillator counts by cycles per second
+* An oscillator is in radians
 
 # So you need to convert from hz and time
 * You need the mystic formulas
