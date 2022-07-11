@@ -12,6 +12,11 @@ Or, an oscillator is a clock
 * The difference is an oscillator counts by cycles per second
 * An oscillator is in radians
 
+# Mystical Laplace Dimensions
+* It is the Fourier Transform but more
+* In that world is the S
+* It is in radians where the poles and zeros can be found
+
 # So you need to convert from hz and time
 * You need the mystic formulas
 * To turn musical bpm into cycles and times
